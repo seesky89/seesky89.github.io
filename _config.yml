@@ -1,3 +1,4 @@
+remote_theme : UniFreak/jekyll-theme-textalic
 highlighter: rouge
 
 markdown: kramdown
@@ -19,13 +20,13 @@ layout: post
 permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
-url: # Required: replace this with your domain
-name: textalic # Required: will be displayed on every page's header
-title: site title # Required: site's default title
+url: "https://seesky89.github.io" # Required: replace this with your domain
+name: Seesky89 # Required: will be displayed on every page's header
+title: Blog # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - one liner one...
   - one liner two...
-description: "Some short description on your site" # Required
+description: "..." # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
