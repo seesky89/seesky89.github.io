@@ -21,11 +21,11 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: "https://seesky89.github.io" # Required: replace this with your domain
-name: Seesky89 # Required: will be displayed on every page's header
+name: Blog # Required: will be displayed on every page's header
 title: Blog # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - one liner one...
-  - one liner two...
+  #- one liner one...
+  #- one liner two...
 description: "..." # Required
 
 disqus:
